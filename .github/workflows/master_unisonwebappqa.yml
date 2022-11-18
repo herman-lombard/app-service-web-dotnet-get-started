@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'UnisonWebappQA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B492D50C7474DE4B47130ED3DBF94B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BE83E8CB45944358B0D765697676999 }}
           package: .
